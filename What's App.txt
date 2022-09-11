@@ -1,1 +1,2 @@
 this is to develop what's app application
+this is the 2nd functionality
